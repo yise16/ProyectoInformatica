@@ -8,16 +8,16 @@ la caída de las torres gemelas
 
 Integrantes:
 ============
-*
-Yineth Vega;
-*
-Yuranis Obiedo;
-*
-Mary Moreno;
-*
-Susan Machado;
-*
-Yiselis Baron;
+
+Yineth Vega;    
+
+Yuranis Obiedo;    
+
+Mary Moreno;    
+
+Susan Machado;    
+
+Yiselis Baron;    
 
 
 
